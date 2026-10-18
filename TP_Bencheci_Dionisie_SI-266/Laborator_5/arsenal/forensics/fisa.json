@@ -1,0 +1,4 @@
+{
+    "strat": "base64 -> hex -> url",
+    "rezultat": "FLAG{straturi_desfacute_cu_succes}"
+}
